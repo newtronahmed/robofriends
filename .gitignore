@@ -10,6 +10,7 @@
 
 # production
 /build
+/srced
 
 # misc
 .DS_Store
